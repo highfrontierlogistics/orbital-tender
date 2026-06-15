@@ -1,5 +1,7 @@
 # Orbital Tender Concept
 
+![Orbital Tender](renders/hero.png)
+
 **High Frontier Logistics**
 
 An open-source orbital tender concept — a modular cargo-handling waystation designed to accept, store, service, and redeploy Starship-class payloads in orbit.
