@@ -1,0 +1,10 @@
+# Blender
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+*.blend[0-9]*
+
+# OS
+.DS_Store
+Thumbs.db
