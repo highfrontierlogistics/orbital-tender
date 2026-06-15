@@ -16,10 +16,8 @@ Think of it as a container port for space — orbital logistics as infrastructur
 
 | Asset | Description | Format |
 |---|---|---|
-| Website source | Full HTML/CSS for highfrontierlogistics.com | `www/` |
 | Thesis | Written argument for orbital logistics infrastructure | `THESIS.md` |
-| Renders | Keyframe renders of the tender concept | `renders/` (PNG) |
-| Hero image | Site hero / OG image | `www/frontier/hero.png` |
+| Renders | Keyframe renders and hero image of the tender concept | `renders/` (PNG) |
 | Blender source | Full .blend — geometry, materials, rigging, animation | Coming July 10 |
 
 ## License
