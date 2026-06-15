@@ -29,7 +29,7 @@ Think of it as a container port for space — orbital logistics as infrastructur
 - **MIT** — All code and scripts
 - **CC BY-SA 4.0** — Design files, renders, animation, website copy, and thesis text
 
-Attribution: "High Frontier Logistics / Wesley Corp" — [highfrontierlogistics.com](https://highfrontierlogistics.com)
+Attribution: "High Frontier Logistics / Wesley E. Corp" — [highfrontierlogistics.com](https://highfrontierlogistics.com)
 
 See [LICENSE](LICENSE) for full terms.
 
