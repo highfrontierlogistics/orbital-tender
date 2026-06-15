@@ -19,7 +19,6 @@ Think of it as a container port for space — orbital logistics as infrastructur
 | Asset | Description | Format |
 |---|---|---|
 | Thesis | Written argument for orbital logistics infrastructure | `THESIS.md` |
-| Renders | Keyframe renders and hero image of the tender concept | `renders/` (PNG) |
 | Blender source | Full .blend — geometry, materials, rigging, animation | Coming July 10 |
 
 ## License
