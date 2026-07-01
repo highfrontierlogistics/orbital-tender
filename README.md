@@ -2,39 +2,69 @@
 
 ![Orbital Tender](renders/hero.png)
 
-**High Frontier Logistics**
+**High Frontier Logistics** · [highfrontierlogistics.com](https://highfrontierlogistics.com)
 
-An open-source orbital tender concept — a modular cargo-handling waystation designed to accept, store, service, and redeploy Starship-class payloads in orbit.
+An open-source orbital tender concept — a modular cargo-handling waystation
+designed to accept, store, service, and redeploy Starship-class payloads in orbit.
 
 > "Colonize Space, Make Earth a Park"
 
 ## What This Is
 
-An 18-bay orbital tender with a central robotic loader, standardized berthing/coupling logic, and modular 6-bay expansion. Modeled to real-world scale in Blender. Designed to be forked, adapted, and argued over.
+An 18-bay orbital tender with a central robotic loader, standardized
+berthing/coupling logic, and modular 6-bay expansion. Modeled to
+real-world scale in Blender. Designed to be forked, adapted, and argued over.
 
-Think of it as a container port for space — orbital logistics as infrastructure, not fantasy.
+Think of it as a container port for space — orbital logistics as
+infrastructure, not fantasy.
+
+**This is a design concept, not flight hardware.** The geometry, animation,
+and thesis are a starting point for critique and improvement — see
+[What's designed vs. what's assumed](https://highfrontierlogistics.com/#detail)
+for exactly which claims are modeled and which are external projections.
 
 ## What's Included
 
-| Asset | Description | Format |
+| Asset | Description | Where |
 |---|---|---|
-| Thesis | Written argument for orbital logistics infrastructure | `THESIS.md` |
-| Blender source | Full .blend — geometry, materials, rigging, animation | Coming July 10 |
+| Thesis | Written argument for orbital logistics infrastructure | [`THESIS.md`](THESIS.md) |
+| Blender source | Full .blend — geometry, materials, rigging, animation | [Releases](../../releases/latest) |
+| Renders | Stills from the concept animation | [`renders/`](renders/) |
+
+The .blend is real-world scale and exports to STL, OBJ, FBX, glTF, and USD.
+STEP/CAD reconstruction may require FreeCAD or other conversion work.
+
+## Opening the Model
+
+1. Download the `.blend` from the [latest release](../../releases/latest)
+2. Open in [Blender](https://www.blender.org/) 4.x (free, all platforms)
+3. Timeline contains the full loader/berthing animation sequence
+
+## Feedback Wanted
+
+Open an [issue](../../issues) or start a [discussion](../../discussions).
+Most useful right now:
+
+- Berthing mount / coupling mechanism critique
+- Structural or deployment concerns
+- Bench-scale prototype ideas (the coupling reduces to a CNC/3D-print project)
+- Simplifications — anything that removes parts without removing function
 
 ## License
 
 **Dual license:**
 
-- **MIT** — All code and scripts
-- **CC BY-SA 4.0** — Design files, renders, animation, website copy, and thesis text
+- **MIT** — all code and scripts
+- **CC BY-SA 4.0** — design files, renders, animation, website copy, and thesis text
 
-Attribution: "High Frontier Logistics / Wesley E. Corp" — [highfrontierlogistics.com](https://highfrontierlogistics.com)
+Attribution: "High Frontier Logistics / Wesley E. Corp" —
+[highfrontierlogistics.com](https://highfrontierlogistics.com)
 
 See [LICENSE](LICENSE) for full terms.
 
 ## Links
 
-- [highfrontierlogistics.com](https://highfrontierlogistics.com) — Project site
-- [YouTube: Concept Animation](https://www.youtube.com/watch?v=ahLHiYWWOXM)
+- [highfrontierlogistics.com](https://highfrontierlogistics.com) — project site
+- [Concept animation (YouTube)](https://www.youtube.com/watch?v=ahLHiYWWOXM)
 - [Grandpa's AI Research](https://grandpasai.com)
 - [Substack](https://grandpasai.substack.com)
