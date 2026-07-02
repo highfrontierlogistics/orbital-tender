@@ -2,6 +2,9 @@
 
 ![Orbital Tender](renders/hero.png)
 
+[![Latest release](https://img.shields.io/github/v/release/highfrontierlogistics/orbital-tender?label=release&color=34d399)](../../releases/latest)
+[![License: MIT + CC BY-SA 4.0](https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY--SA%204.0-blue)](LICENSE)
+
 **High Frontier Logistics** · [highfrontierlogistics.com](https://highfrontierlogistics.com)
 
 An open-source orbital tender concept — a modular cargo-handling waystation
@@ -27,8 +30,8 @@ for exactly which claims are modeled and which are external projections.
 
 | Asset | Description | Where |
 |---|---|---|
+| Blender source | `tender_rel_001.blend` — full geometry, materials, rigging, animation | [**v1.0.0 release**](../../releases/latest) |
 | Thesis | Written argument for orbital logistics infrastructure | [`THESIS.md`](THESIS.md) |
-| Blender source | Full .blend — geometry, materials, rigging, animation | [Releases](../../releases/latest) |
 | Renders | Stills from the concept animation | [`renders/`](renders/) |
 
 The .blend is real-world scale and exports to STL, OBJ, FBX, glTF, and USD.
@@ -36,8 +39,9 @@ STEP/CAD reconstruction may require FreeCAD or other conversion work.
 
 ## Opening the Model
 
-1. Download the `.blend` from the [latest release](../../releases/latest)
-2. Open in [Blender](https://www.blender.org/) 4.x (free, all platforms)
+1. **[Download tender_rel_001.blend](https://github.com/highfrontierlogistics/orbital-tender/releases/download/v1.0.0/tender_rel_001.blend)**
+   (or grab it from the [latest release](../../releases/latest))
+2. Open in [Blender](https://www.blender.org/) 4.x — free, all platforms
 3. Timeline contains the full loader/berthing animation sequence
 
 ## Feedback Wanted
@@ -66,5 +70,3 @@ See [LICENSE](LICENSE) for full terms.
 
 - [highfrontierlogistics.com](https://highfrontierlogistics.com) — project site
 - [Concept animation (YouTube)](https://www.youtube.com/watch?v=ahLHiYWWOXM)
-- [Grandpa's AI Research](https://grandpasai.com)
-- [Substack](https://grandpasai.substack.com)
