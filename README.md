@@ -14,6 +14,8 @@ designed to accept, store, service, and redeploy Starship-class payloads in orbi
 
 ## What This Is
 
+![Snapshot](/renders/snap_01.png)
+
 An 18-bay orbital tender with a central robotic loader, standardized
 berthing/coupling logic, and modular 6-bay expansion. Modeled to
 real-world scale in Blender. Designed to be forked, adapted, and argued over.
