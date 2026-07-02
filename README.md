@@ -41,9 +41,9 @@ STEP/CAD reconstruction may require FreeCAD or other conversion work.
 
 1. **[Download tender_rel_001.blend](https://github.com/highfrontierlogistics/orbital-tender/releases/download/v1.0.0/tender_rel_001.blend)**
    (or grab it from the [latest release](../../releases/latest))
-2. Open in [Blender](https://www.blender.org/) 4.x — free, all platforms
+2. Open in [Blender **5.1.2 or newer**](https://www.blender.org/download/) — free, all platforms.
+   The file was saved in 5.1.2; older Blender versions may not open it correctly.
 3. Timeline contains the full loader/berthing animation sequence
-
 ## Feedback Wanted
 
 Open an [issue](../../issues) or start a [discussion](../../discussions).
