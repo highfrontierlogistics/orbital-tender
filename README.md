@@ -26,6 +26,11 @@ and thesis are a starting point for critique and improvement — see
 [What's designed vs. what's assumed](https://highfrontierlogistics.com/#detail)
 for exactly which claims are modeled and which are external projections.
 
+## About
+
+I designed and created this work, but this didn't happen alone;
+a lifetime of support from family, friends, and cohorts made it possible.
+
 ## What's Included
 
 | Asset | Description | Where |
@@ -39,9 +44,9 @@ STEP/CAD reconstruction may require FreeCAD or other conversion work.
 
 ## Opening the Model
 
-1. **[Download tender_rel_001.blend](https://github.com/highfrontierlogistics/orbital-tender/releases/download/v1.0.0/tender_rel_001.blend)**
+1. **[Download tender_rel_001.blend](https://github.com/highfrontierlogistics/orbital-tender/releases/download/v1.0.0/tender_rel_001.blend)**  
    (or grab it from the [latest release](../../releases/latest))
-2. Open in [Blender **5.1.2 or newer**](https://www.blender.org/download/) — free, all platforms.
+2. Open in [Blender **5.1.2 or newer**](https://www.blender.org/download/) — free, all platforms.  
    The file was saved in 5.1.2; older Blender versions may not open it correctly.
 3. Timeline contains the full loader/berthing animation sequence
 
