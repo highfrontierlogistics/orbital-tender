@@ -49,8 +49,7 @@ STEP/CAD reconstruction may require FreeCAD or other conversion work.
 Open an [issue](../../issues) or start a [discussion](../../discussions).
 Most useful right now:
 
-- Berthing mount / coupling mechanism critique
-- Structural or deployment concerns
+- Berthing mount / coupling mechanism critique ([see it in motion](https://www.youtube.com/shorts/yO4NPef0H0A))- Structural or deployment concerns
 - Bench-scale prototype ideas (the coupling reduces to a CNC/3D-print project)
 - Simplifications — anything that removes parts without removing function
 
@@ -69,4 +68,5 @@ See [LICENSE](LICENSE) for full terms.
 ## Links
 
 - [highfrontierlogistics.com](https://highfrontierlogistics.com) — project site
-- [Concept animation (YouTube)](https://www.youtube.com/watch?v=ahLHiYWWOXM)
+- [Concept animation (YouTube)](https://www.youtube.com/watch?v=ahLHiYWWOXM) — full sequence
+- [Shorts](https://www.youtube.com/@HighFrontierLogistics/shorts) — mechanism close-ups and clips
