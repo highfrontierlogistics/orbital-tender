@@ -26,6 +26,11 @@ and thesis are a starting point for critique and improvement — see
 [What's designed vs. what's assumed](https://highfrontierlogistics.com/#detail)
 for exactly which claims are modeled and which are external projections.
 
+## About
+
+I designed and created this work, but this didn't happen alone;
+a lifetime of support from family, friends, and cohorts made it possible.
+
 ## What's Included
 
 | Asset | Description | Where |
@@ -44,12 +49,14 @@ STEP/CAD reconstruction may require FreeCAD or other conversion work.
 2. Open in [Blender **5.1.2 or newer**](https://www.blender.org/download/) — free, all platforms.
    The file was saved in 5.1.2; older Blender versions may not open it correctly.
 3. Timeline contains the full loader/berthing animation sequence
+
 ## Feedback Wanted
 
 Open an [issue](../../issues) or start a [discussion](../../discussions).
 Most useful right now:
 
-- Berthing mount / coupling mechanism critique ([see it in motion](https://www.youtube.com/shorts/yO4NPef0H0A))- Structural or deployment concerns
+- Berthing mount / coupling mechanism critique ([see it in motion](https://www.youtube.com/shorts/yO4NPef0H0A))
+- Structural or deployment concerns
 - Bench-scale prototype ideas (the coupling reduces to a CNC/3D-print project)
 - Simplifications — anything that removes parts without removing function
 
