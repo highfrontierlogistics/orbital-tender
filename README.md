@@ -26,11 +26,6 @@ and thesis are a starting point for critique and improvement — see
 [What's designed vs. what's assumed](https://highfrontierlogistics.com/#detail)
 for exactly which claims are modeled and which are external projections.
 
-## About
-
-I designed and created this work, but this didn't happen alone;
-a lifetime of support from family, friends, and cohorts made it possible.
-
 ## What's Included
 
 | Asset | Description | Where |
