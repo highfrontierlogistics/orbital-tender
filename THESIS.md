@@ -1,99 +1,19 @@
-# The Thesis: Why Orbital Logistics, Why Now
+# The Thesis: Why Orbital Logistics Is the Bottleneck Worth Designing For
 
-This project starts from a simple observation: most people thinking seriously
-about space are focused on the two ends of the supply chain — getting mass off
-the planet, or building habitats and infrastructure once it arrives. Very few
-are designing for the part in between. That gap is the thesis.
+The people who win across long stretches of history are rarely the ones who make the goods. They're the ones who move, hold, and hand off the goods. Venice didn't grow the spices; it controlled the routes. The railroads outlasted most of what they carried. Containerization — one standardized steel box — reshaped the global economy more than almost any single product of its era. Logistics is the layer everything else has to pass through, and it holds its value precisely because it doesn't depend on guessing which cargo matters next.
 
-## The pattern this comes from
+Space is about to have that problem, and very little public design work is focused on the mechanical middle layer.
 
-Across most of economic history, the durable winners aren't the ones who make
-the goods — they're the ones who move, hold, and hand them off. Venice
-controlled the routes, not the spices. Containerization reshaped the world
-economy with one standardized box, not a better ship. Logistics is the layer
-everything has to pass through, and it compounds precisely because it's
-agnostic about what passes through it.
+The argument rests on one thing I'm confident about: reusable launch is changing what's physically liftable, not merely what's affordable. As mass-to-orbit gets cheap, the binding constraint moves. It stops being "can we get it up there" and becomes "where does it go once it's up there." Plenty of organizations build rockets. Plenty imagine habitats and factories and depots. Very few are designing the unglamorous middle layer — the thing that catches a payload, holds it, services it, and hands it off to whatever comes next. That gap is the tender. It's a container port that happens to be in orbit, and the case for building one doesn't require believing in any particular destination. It only requires believing that traffic is coming and traffic needs somewhere to dock.
 
-Space is about to have that problem, with almost no one building for it.
+That's the whole load-bearing claim, and it stands on its own.
 
-## The trend that makes it urgent: launch economics
+There's a second, longer-horizon reason I find compelling, but I hold it loosely and the argument above does not depend on it: if longevity research delivers even part of what's hoped — and senolytics and reprogramming work are now in human trials, not just on whiteboards — then people plan and build on longer time horizons. Longer horizons make durable, decades-lived infrastructure more valuable, not less. A workforce and an investor class that expect to be around in fifty years discount the future less steeply, and patient infrastructure is exactly what a less-impatient world underbuilds today. I think this coupling is real. I also think it's the kind of claim that's true enough to motivate work and too clean to prove, so I offer it as a reason I'm personally building now rather than as a premise the design needs. Strip it out entirely and the cheap-lift argument is unharmed.
 
-Reusable launch vehicles aren't just making access to orbit cheaper — they're
-changing what's physically possible to lift, not merely what's affordable to
-lift. As heavy-lift capability scales, the constraint shifts. The question
-stops being "can this much mass reach orbit" and starts being "what happens to
-it once it's there." Cargo doesn't simply appear at its destination — it has to
-be received, stored, sorted, serviced, and redeployed, the same way it does in
-any terrestrial supply chain.
+So why design a specific tender, and why give it away?
 
-Today there's almost nothing designed for that step. No standardized cargo
-handling. No agnostic interface. No orbital equivalent of a port, warehouse,
-or transfer hub. Rockets get the attention because they're visible and
-dramatic. Habitats get attention because they're aspirational. The logistics
-layer in between gets neither, despite being the thing that makes everything
-downstream of it actually work.
+Because the contribution isn't a spacecraft — it's an interface. The most defensible idea here is the smallest one: a single fitting that does two jobs, a grasp point for the loader arm and a berth lock once the payload is seated. One fitting, two functions, copied onto payloads built by people who never look at the rest of this model. Standards don't win by being best or first; they win by being adopted until the cost of routing around them exceeds the cost of conforming. You can't reach that tipping point by holding a design private. You reach it by publishing it clearly enough that others can evaluate it, fork it, improve it, and — if it's any good — propagate it past the point where its origin matters.
 
-## The orbital tender as a proposed answer
+That's why this is open source rather than a startup. The best outcome isn't that I personally build this. It's that the idea survives long enough, and travels far enough, to influence the people who can. A locked design serves my ego; a public one serves the idea. If the concept is sound, forks will carry it; if it's flawed, the same openness lets it be torn apart and replaced with something better. Either way the bottleneck gets a little more attention than it has now, which is almost none.
 
-The tender concept is a direct response to that gap — not a finished solution,
-but a starting point for one. It's deliberately unglamorous: a vessel that
-accepts, stores, services, and redeploys standardized cargo, with no
-proprietary couplings and a single repeated connector that lets the
-architecture scale in modular increments without a redesign. The design
-philosophy mirrors the logistics problem itself — boring, agnostic, and built
-to be extended by people who weren't part of the original design.
-
-Positioning matters too. A facility like this benefits enormously from being
-placed somewhere it doesn't need active management to stay put — a
-gravitationally stable point like L4 or L5, where cargo can sit between
-missions without continuous station-keeping. The mechanics here aren't new or
-proposed; they're well-established orbital mechanics. What's proposed is the
-infrastructure case for actually using that stability for something.
-
-## A longer-horizon reason, held loosely
-
-There's a second trend worth naming, though the argument above doesn't depend
-on it: human longevity research. Reprogramming therapies, senolytics, and
-regenerative medicine are in active human trials. None of this guarantees a
-specific outcome on a specific timeline, but even partial success reshapes a
-basic assumption — that a person's productive working life ends around 65. A
-workforce that builds, plans, and invests on 70- or 80-year horizons makes
-durable orbital infrastructure more valuable, because the people commissioning
-it expect to be around for the payoff.
-
-I find this compelling, and I hold it loosely. If it pans out, it strengthens
-the case. If it doesn't, the logistics bottleneck is still real.
-
-## What's claimed, and what isn't
-
-It's worth being explicit about the boundary. The bottleneck — cheap heavy
-lift producing orbital mass with nowhere designed to handle it — is a claim
-about trends already underway, documented in the
-[references](https://highfrontierlogistics.com/#references), though their pace
-and ultimate scale remain genuinely uncertain. The tender design is a response
-to that bottleneck, not a guarantee that this exact design is the one that
-gets built, or that it gets built at all.
-
-What this project does claim with more confidence is timing: if the bottleneck
-is real, the value of having thought it through — geometry, modular logic,
-interface standards, the documentation of why each choice was made — only goes
-up the closer the bottleneck gets. Designing for a problem before it's urgent
-is cheap. Designing for it after is not.
-
-## Why open source it
-
-The honest version of this thesis is that one person, working alone, isn't
-going to build orbital infrastructure. But one person can do the early,
-unglamorous design work — the modular logic, the standardized interfaces, the
-reasoning behind each tradeoff — and put it somewhere it can be picked up by
-someone who can. Open-sourcing the repository wasn't a marketing gesture; it's
-the actual mechanism by which this thesis has any chance of mattering. The
-source model and this document are public now. The idea either survives
-contact with people who can build on it, or it doesn't — but it couldn't do
-either as a personal project.
-
----
-
-*Part of the [orbital-tender](https://github.com/highfrontierlogistics/orbital-tender)
-repository · CC BY-SA 4.0 · High Frontier Logistics / Wesley E. Corp ·
-[highfrontierlogistics.com](https://highfrontierlogistics.com)*
+I'm not claiming certainty about the timeline. I'm claiming the bottleneck is real, that it's mechanical before it's anything else, and that it's worth designing for now — in the open, where it can be argued with.
